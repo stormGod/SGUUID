@@ -1,0 +1,2 @@
+# SGUUID
+iOS的UDID废用以及UUID配合keychain的替换方案实现
